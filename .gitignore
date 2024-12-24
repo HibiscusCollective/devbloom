@@ -1,0 +1,23 @@
+*
+!/*
+
+# Root configuration
+
+## Basic documentation (ex: Readme, License, Policies, etc.)
+!README.md
+!LICENSE
+!SECURITY
+!PRIVACY
+!CONTRIBUTING
+!CODE_OF_CONDUCT
+
+## Linter rules
+!.deepsource.toml
+!.trunk/**/*
+
+## Development environment management
+!mise.toml
+
+# Sub-project gitignores
+
+

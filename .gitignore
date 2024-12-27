@@ -18,6 +18,10 @@
 ## Development environment management
 !mise.toml
 
+## LLM configuration
+!.github/copilot-instructions.md
+!.cursorrules
+!.windsurfrules
+
 # Sub-project gitignores
-
-
+!docs/.gitignores

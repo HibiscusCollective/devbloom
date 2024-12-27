@@ -1,6 +1,6 @@
 # DevBloom
 
-Free and open source devcontainers implementation.
+Free and open source [Dev Containers](https://containers.dev/) implementation.
 
 ## License
 
